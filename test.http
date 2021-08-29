@@ -1,0 +1,5 @@
+GET http://localhost:8080/users/getusers
+###
+GET http://localhost:8080/products/getproducts/byname/Carnation Rosey
+###
+GET http://localhost:8080/products/getproducts/category/type
